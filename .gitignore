@@ -14,3 +14,5 @@ data/chroma/
 .DS_Store
 .vscode/*
 !.vscode/settings.json
+
+*.tsbuildinfo
