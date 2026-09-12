@@ -1,0 +1,10 @@
+fastapi>=0.116,<1
+uvicorn[standard]>=0.35,<1
+pydantic>=2.11,<3
+pydantic-settings>=2.10,<3
+python-dotenv>=1.1,<2
+chromadb>=1.0,<2
+ibm-watsonx-ai>=1.7,<2
+pypdf>=6,<7
+pytest>=8.4,<9
+httpx>=0.28,<1
